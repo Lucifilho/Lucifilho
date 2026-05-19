@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Luciel Filho
 
-[cite_start]I am a passionate **Full Stack Developer** based in Brazil[cite: 2, 3]. [cite_start]I specialize in building robust back-end systems, creating dynamic front-end interfaces, and automating processes to solve real-world problems[cite: 7, 8, 47]. 
+I'm a passionate **Full Stack Developer** based in Brazil. I specialize in building robust back-end systems, creating dynamic front-end interfaces, and automating processes to solve real-world problems. 
 
-[cite_start]Currently, I am working as a Mid-Level PHP Developer, focused on building high-performance applications and scalable APIs[cite: 20, 21, 22].
+Currently, I am working as a Mid-Level PHP Developer, focused on building high-performance applications and scalable APIs.
 
 ---
 
@@ -50,10 +50,10 @@ Here is a quick overview of my open-source contributions and development activit
 
 ### 🚀 What I've Been Up To
 
-- 🔭 **Currently working at:** WYOU as a Mid-Level PHP Developer[cite: 19, 20].
-- 💼 **Past Experiences:** Built SaaS platforms, integrated ERP systems (Bling/CyberSul), and managed cloud infrastructure at CHIAPERINI[cite: 33, 38, 41].
-- 🎓 **Education:** Graduated in Systems Analysis and Development & Financial Management[cite: 5].
-- ⚙️ **Core Focus:** Building high-quality, secure code following PSR standards and MVC architecture[cite: 8, 11].
+- 🔭 **Currently working at:** WYOU as a Mid-Level PHP Developer.
+- 💼 **Past Experiences:** Built SaaS platforms, integrated ERP systems (Bling/CyberSul), and managed cloud infrastructure at CHIAPERINI.
+- 🎓 **Education:** Graduated in Systems Analysis and Development & Financial Management.
+- ⚙️ **Core Focus:** Building high-quality, secure code following PSR standards and MVC architecture.
 
 ---
 
