@@ -61,9 +61,9 @@ Here is a quick overview of my open-source contributions and development activit
 
 I am always open to discussing new projects, collaboration opportunities, or just talking about tech! Feel free to reach out:
 
-[![Website Badge](https://img.shields.io/badge/Website-phploy.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](http://www.phploy.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Luciel%20Filho?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciel-filho/) 
-[![Email Badge](https://img.shields.io/badge/Email-luciel.filho%phploy.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luciel.filho@phploy.com) 
+[![Website Badge](https://img.shields.io/badge/Website-PhPloy.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](http://PhPloy.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Luciel%20Filho-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciel-filho)
+[![Email Badge](https://img.shields.io/badge/Email-luciel.filho%40phploy.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luciel.filho@phploy.com)
 
 ---
 _“Simplicity is the ultimate sophistication.”_
