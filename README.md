@@ -50,10 +50,10 @@ Here is a quick overview of my open-source contributions and development activit
 
 ### 🚀 What I've Been Up To
 
-- [cite_start]🔭 **Currently working at:** WYOU as a Mid-Level PHP Developer[cite: 19, 20].
-- [cite_start]💼 **Past Experiences:** Built SaaS platforms, integrated ERP systems (Bling/CyberSul), and managed cloud infrastructure at CHIAPERINI[cite: 33, 38, 41].
-- [cite_start]🎓 **Education:** Graduated in Systems Analysis and Development & Financial Management[cite: 5].
-- [cite_start]⚙️ **Core Focus:** Building high-quality, secure code following PSR standards and MVC architecture[cite: 8, 11].
+- 🔭 **Currently working at:** WYOU as a Mid-Level PHP Developer[cite: 19, 20].
+- 💼 **Past Experiences:** Built SaaS platforms, integrated ERP systems (Bling/CyberSul), and managed cloud infrastructure at CHIAPERINI[cite: 33, 38, 41].
+- 🎓 **Education:** Graduated in Systems Analysis and Development & Financial Management[cite: 5].
+- ⚙️ **Core Focus:** Building high-quality, secure code following PSR standards and MVC architecture[cite: 8, 11].
 
 ---
 
@@ -61,9 +61,9 @@ Here is a quick overview of my open-source contributions and development activit
 
 I am always open to discussing new projects, collaboration opportunities, or just talking about tech! Feel free to reach out:
 
-[cite_start][![Website Badge](https://img.shields.io/badge/Website-lucifilho.com.br-blue?style=flat-square&logo=google-chrome&logoColor=white)](http://www.lucielfilho.com.br) 
-[cite_start][![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Luciel%20Souza-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciel-aparecido-de-souza-89b47a238/) 
-[cite_start][![Email Badge](https://img.shields.io/badge/Email-lucielfilho%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucielfilho@hotmail.com) 
+[![Website Badge](https://img.shields.io/badge/Website-phploy.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](http://www.phploy.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Luciel%20Filho?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciel-filho/) 
+[![Email Badge](https://img.shields.io/badge/Email-luciel.filho%phploy.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luciel.filho@phploy.com) 
 
 ---
 _“Simplicity is the ultimate sophistication.”_
